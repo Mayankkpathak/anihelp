@@ -2,7 +2,7 @@
   "name": "admin-portal",
   "version": "1.0.0",
   "main": "index.ts",
-  "author": "Sarthak Sachdeva and Saransh Sinha",
+  "author": "Mayank Pathak",
   "license": "MIT",
   "scripts": {
     "start": "node build/index.js",
